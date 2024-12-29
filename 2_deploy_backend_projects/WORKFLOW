@@ -1,0 +1,7 @@
+1. npm init to create package.jsom file
+2. adding "start" script in package.json scripts, so that we dont have to run node index.js command every time
+    we can now run npm run start
+3. index.js
+4. install dotenv package to maintain .env variables
+5. define in .env file and import where needed
+6. after this for deploying, almost every cloud platform is paid, just sit and watch from chai aur code 2nd video
