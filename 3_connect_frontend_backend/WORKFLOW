@@ -1,0 +1,8 @@
+1. inside backend npm init, npm i express
+2. add start script in package.json
+3. server.js
+
+4. in frontend, install react project via vite
+5. app.jsx
+6. install axios in frontend for request and getting response to server
+7. add proxy in vite.config.js
