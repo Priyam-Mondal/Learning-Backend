@@ -1,0 +1,11 @@
+1. When starting a back-end project, it is important to first determine what data points will be stored
+2. in stackblitz (https://stackblitz.com/edit/stackblitz-starters-uxkccrjg?description=&file=models%2Ftodos%2Fuser.models.js,models%2Ftodos%2Ftodo.models.js,models%2Ftodos%2FsubTodo.models.js&title=Express%20Starter),
+
+    1. create new project
+    2. select express backend
+    3. npm i mongoose
+3. create new folder models
+    1. create new folder todos
+    2. user.models.js
+    3. todo.models.js
+    4. subTodo.models.js
